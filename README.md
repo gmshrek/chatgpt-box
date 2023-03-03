@@ -1,4 +1,4 @@
-# ChatBox for MacOS
+# ChatGPT-Box for MacOS
 
 ### A chatGPT assistant that floats over your menu bar
 
