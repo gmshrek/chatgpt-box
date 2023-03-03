@@ -16,9 +16,9 @@
 All rights reserved by OpenAI
 
 
-![image1](https://github.com/gmshrek/chatbox/blob/main/1.png)
+![image1](https://github.com/gmshrek/chatgpt-box/blob/main/box1.png)
 
-![image2](https://github.com/gmshrek/chatbox/blob/main/2.png)
+![image2](https://github.com/gmshrek/chatgpt-box/blob/main/box2.png)
 
 
 
