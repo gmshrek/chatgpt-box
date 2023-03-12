@@ -11,7 +11,7 @@
 
 #### Download
 
-[ChatGPT-Box.dmg](https://github.com/gmshrek/chatgpt-box/releases/download/v1.0.0/ChatGPT-Box.dmg)
+[ChatGPT-Box.dmg](https://github.com/gmshrek/chatgpt-box/releases/download/v1.0.1/ChatGPT.Box.dmg)
 
 All rights reserved by OpenAI
 
@@ -32,7 +32,7 @@ All rights reserved by OpenAI
 
 #### 下载地址
 
-[ChatGPT-Box.dmg](https://github.com/gmshrek/chatgpt-box/releases/download/v1.0.0/ChatGPT-Box.dmg)
+[ChatGPT-Box.dmg](https://github.com/gmshrek/chatgpt-box/releases/download/v1.0.1/ChatGPT.Box.dmg)
 
 
 版权归OpenAI所有
